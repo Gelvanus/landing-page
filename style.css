@@ -1,0 +1,33 @@
+ul {
+    list-style: none;
+    display: flex;
+    margin: 0; 
+    padding: 0;
+    gap: 20px;
+    margin-left: auto;
+}
+
+.header {
+    display: flex; 
+}
+
+.logo {
+    margin: 0;
+}
+a {
+    text-decoration: none;
+}
+.subset-one {
+    display: flex; 
+    margin-top: 70px;
+}
+.first {
+    
+}
+.secondary-text {
+    flex-grow: 0;
+}
+.main-part {
+    width: 400px;
+    text-wrap: wrap; 
+}
