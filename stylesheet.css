@@ -62,5 +62,41 @@ button {
     margin-top: 10px;
 }
 .cool {
-    margin-left: 300px;
+    margin-left: 300px; 
+}
+.container {
+    display: flex;
+    flex-direction: column;
+}
+.information {
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+.top {
+    font-size: 36px; 
+    text-align: center;
+    font-weight: 900;
+    color: #1F2937;
+    margin-bottom: 40px;
+}
+.illustrations {
+    display: flex;
+    justify-content: center;
+    
+}
+.green-monster {
+    width: 200px;
+    margin-right: 40px; 
+}
+.blue-bubble {
+    width: 200px;
+    margin-right: 40px; 
+}
+.blue-ocean {
+    width: 200px;
+    margin-right: 40px; 
+}
+.pineapples { 
+    width: 200px;
+    margin-right: 40px;
 }
