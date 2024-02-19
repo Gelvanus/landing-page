@@ -15,6 +15,7 @@ ul {
 .header {
     display: flex; 
     justify-content: center;
+    margin-bottom: 20px;
 }
 
 a {
@@ -30,7 +31,7 @@ a {
 }
 .first {
     background-color: #1F2937;
-    padding-bottom: 100px;
+    padding-bottom: 150px;
     padding-top: 20px;
     
 }
@@ -99,4 +100,47 @@ button {
 .pineapples { 
     width: 200px;
     margin-right: 40px;
+}
+.quote{
+    background-color: #E5E7EB;
+    display: flex; 
+    flex-direction: column;
+    padding: 100px 400px;
+    text-align: center;
+}
+.bottom{
+   text-align: end;
+   font-size: 20px;
+   font-weight: 900;
+}
+.push{ 
+    max-width: 900px;
+}
+.above{ 
+    font-size: 36px; 
+    color: #1F2937;
+    margin-bottom: 10px;
+}
+.call-to-action{ 
+    background-color: #3882F6;
+    display: flex;
+    margin: 70px 280px;
+    max-width: 1200px;
+    padding: 35px 15px;
+    justify-content: center; 
+    align-items: center;
+    border-radius: 7px;
+}
+.text{ 
+    flex-direction: column;
+    color: white;
+}
+.last{ 
+    border: 2px solid white; 
+}
+.footer{ 
+    background-color: #1F2937;
+    text-align: center;
+    color: white;
+    padding: 30px;
 }
