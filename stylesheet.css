@@ -126,9 +126,8 @@ button {
     display: flex;
     margin: 70px 280px;
     max-width: 1200px;
-    padding: 35px 15px;
-    justify-content: center; 
-    align-items: center;
+    padding: 35px 155px;
+    justify-content: center;
     border-radius: 7px;
 }
 .text{ 
@@ -137,6 +136,7 @@ button {
 }
 .last{ 
     border: 2px solid white; 
+    margin-left: auto;
 }
 .footer{ 
     background-color: #1F2937;
